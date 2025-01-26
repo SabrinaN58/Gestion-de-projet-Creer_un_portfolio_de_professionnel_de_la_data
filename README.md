@@ -2,7 +2,7 @@
 
 ## **Contexte**: 
 Consultant Data au sein de Data ESN, une entreprise de service numérique pour laquelle je viens d'achever ma dernière mission. Je recherche actuellement une nouvelle mission, ma collègue chargée de positionner les consultants sur des missions externes auprès de grands comptes me propose une nouvelle mission pour laquelle je dois être convaincante car l'entreprise est très éxigeante. 
-En effet, le client Aéroworld cherche un profil de data analyst confirmé intéressé par le management d'une équipe et par l'innovation. Pour postuler, l'entreprise souhaite d'abord analyser les portfolios des candidats avant de les rencontrer.En supplémment des projets déjà réalisé, le portfolio devra contenir certains livrables rédigés exclusivement pour ce recrutement pour démontrer les compétences clés démandées pour le poste.
+En effet, le client Aéroworld cherche un profil de data analyst confirmé intéressé par le management d'une équipe et par l'innovation. Pour postuler, l'entreprise souhaite d'abord analyser les portfolios des candidats avant de les rencontrer. En complément des projets déjà réalisés, le portfolio devra contenir certains livrables rédigés exclusivement pour ce recrutement pour démontrer les compétences clés démandées pour le poste.
 
 ## **Objectifs** :
 Les objectifs de ce projet sont :
