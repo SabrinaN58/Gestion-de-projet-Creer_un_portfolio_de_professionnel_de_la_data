@@ -6,7 +6,7 @@ En effet, le client Aéroworld cherche un profil de data analyst confirmé inté
 
 ## **Objectifs** :
 Les objectifs de ce projet sont :
--Créer un portfolio professionnel réfléxif et visuel afin de démontrer les compétences comportementales et techniques acquis lors de la réalisation des projets menés
+- Créer un portfolio professionnel réfléxif et visuel afin de démontrer les compétences comportementales et techniques acquis lors de la réalisation des projets menés
 - Réaliser des livrables supplémentaires demandés par l'entreprise afin de démontrer les compétences clés répondant aux éxigences spécifiques du poste
 
 ## **Tâches** : 
