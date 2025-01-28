@@ -11,12 +11,12 @@ Les objectifs de ce projet sont :
 
 ## **Tâches** : 
 Les tâches réalisées dans ce projet sont : 
-- Création d'un carte mentale pour organiser les idées et structurer la création du portfolio
+- Créer une carte mentale pour organiser les idées et structurer la création du portfolio
 - Réaliser un diagramme de Gantt pour la gestion du temps du projet
-- Création d'un tableau de bord de mon profil et de veille métier et technologique
-- Création d'une vidéo et d'un support de formation sur un outil de visualisation pour aider les équipes métier à réaliser les principaux graphiques utilisés pour l'analyse de données
-- Création d'un compte GitHub et importation des projets pertinents et livrables demandés pour démontrer les compétences clés d'un professionnel de la data
-- Création d'un site web à l'aide de Visual Studio Code pour présenter de manière harmonieuse mes projets
+- Créer un tableau de bord de mon profil et de veille métier et technologique
+- Créer une vidéo et d'un support de formation sur un outil de visualisation pour aider les équipes métier à réaliser les principaux graphiques utilisés pour l'analyse de données
+- Créer un compte GitHub et importation des projets pertinents et livrables demandés pour démontrer les compétences clés d'un professionnel de la data
+- Créer un site web à l'aide de Visual Studio Code pour présenter de manière harmonieuse mon profil et mes projets
 
 ## **Résultats** : 
 Ce que j'ai appris durant ce projet : 
