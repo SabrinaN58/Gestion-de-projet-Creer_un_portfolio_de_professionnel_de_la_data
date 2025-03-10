@@ -1,4 +1,6 @@
 # Créer un portfolio de professionnel de la data
+![projet3](https://github.com/user-attachments/assets/01d7343d-7cdd-489c-b6ca-a44c12d9aa70)
+
 
 ## **Contexte**: 
 Consultant Data au sein de Data ESN, une entreprise de service numérique pour laquelle je viens d'achever ma dernière mission. Je recherche actuellement une nouvelle mission, ma collègue chargée de positionner les consultants sur des missions externes auprès de grands comptes me propose une nouvelle mission pour laquelle je dois être convaincante car l'entreprise est très éxigeante. 
